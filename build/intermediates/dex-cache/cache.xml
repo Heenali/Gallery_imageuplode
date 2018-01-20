@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Heenali\Downloads\image_uplode-master\app\libs\httpmime-4.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c7349b04e5d76895fdfc0f38bdc0699e5f6fef5a">
+        <dex dex="C:\Users\Heenali\Downloads\image_uplode-master\app\build\intermediates\pre-dexed\debug\httpmime-4.2.1_965f58774c7b80a1c4824bd4a838e7dfcb75b0e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Heenali\Downloads\image_uplode-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\Heenali\Downloads\image_uplode-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-20.0.0_75efde781c603cf0917fee3807586918cf301370.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_heenali_software\EclipsewithSDK\AndroidSoftware\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\Heenali\Downloads\image_uplode-master\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0_0412e03303a0492ff7c3f3b7b7b59977699c2c7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Heenali\Downloads\image_uplode-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\Heenali\Downloads\image_uplode-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-20.0.0_62cb6e052617de1e99adfd526ac92d06884bac0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Heenali\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="C:\Users\Heenali\Downloads\image_uplode-master\app\build\intermediates\pre-dexed\debug\picasso-2.3.2_433e5636ab3db3960254f40d4d165d1d6d9720d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Heenali\Downloads\image_uplode-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\Heenali\Downloads\image_uplode-master\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0_400ffc3aa3965100edc1fd3aae607e947838e210.jar" />
+    </item>
+
+</items>
